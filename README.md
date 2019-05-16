@@ -1,3 +1,3 @@
 # Inherintance
-Volume bola, a, b
+Volume bola, a, b|||
 PLN2, bapak, anak
